@@ -1,6 +1,7 @@
 langchain-astradb
 langchain 
-langchain-openai
+GoogleGenerativeAI
+GoogleGenerativeAIEmbeddings
 datasets
 pypdf
 python-dotenv
